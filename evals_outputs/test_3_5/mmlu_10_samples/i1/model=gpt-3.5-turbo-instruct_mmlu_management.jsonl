@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "What is the term for a sub-optimal but acceptable outcome of negotiations between parties?",
+      "subject": "management",
+      "choices": [
+        "Bargaining",
+        "Satisficing",
+        "Accepting",
+        "Compromising"
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\n(A) Satisficing (B) Bargaining (C) Compromising (D) Accepting\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) Satisficing"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "What is the term for the 'rule of thumb' type of bias in decision making?",
+      "subject": "management",
+      "choices": [
+        "Framing bias",
+        "Hindsight bias",
+        "Over-confidence bias",
+        "Heuristics"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: What is the term for the 'rule of thumb' type of bias in decision making?\n(A) Hindsight bias (B) Over-confidence bias (C) Framing bias (D) Heuristics\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) Heuristics"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "What is a normative perspective?",
+      "subject": "management",
+      "choices": [
+        "The way things are.",
+        "The way things are going to be.",
+        "The way things should be.",
+        "The way things were."
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: What is a normative perspective?\n(A) The way things are going to be. (B) The way things were. (C) The way things should be. (D) The way things are.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) The way things should be."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "In the 'five forces model', what is the type of competitive activity that exists between organisations?",
+      "subject": "management",
+      "choices": [
+        "The potential for entry into the industry",
+        "The threat of substitute products",
+        "The power of customers",
+        "The level of rivalry"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: In the 'five forces model', what is the type of competitive activity that exists between organisations?\n(A) The level of rivalry (B) The potential for entry into the industry (C) The power of customers (D) The threat of substitute products\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) The level of rivalry"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Which one of the following political leaders could not be termed a 'transformational' leader?",
+      "subject": "management",
+      "choices": [
+        "Margaret Thatcher",
+        "Mikhail Gorbachov",
+        "Nelson Mandela",
+        "Bill Clinton"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: Which one of the following political leaders could not be termed a 'transformational' leader?\n(A) Nelson Mandela (B) Mikhail Gorbachov (C) Margaret Thatcher (D) Bill Clinton\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) Margaret Thatcher"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "What is a Gantt chart a type of?",
+      "subject": "management",
+      "choices": [
+        "Work flow design",
+        "Work schedule design",
+        "Work rate design",
+        "Work output design"
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: What is a Gantt chart a type of?\n(A) Work schedule design (B) Work rate design (C) Work output design (D) Work flow design\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Work schedule design"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Which one of the following is a feature of McGregor's Theory X?",
+      "subject": "management",
+      "choices": [
+        "Workers enjoy responsibility.",
+        "Workers view physical and mental effort as a natural part of work.",
+        "Workers like to show initiative.",
+        "Workers like to be directed."
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: Which one of the following is a feature of McGregor's Theory X?\n(A) Workers like to be directed. (B) Workers view physical and mental effort as a natural part of work. (C) Workers enjoy responsibility. (D) Workers like to show initiative.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Workers view physical and mental effort as a natural part of work."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "What is the term for power derived from status or position in an organisation?",
+      "subject": "management",
+      "choices": [
+        "Referent",
+        "Expert",
+        "Reward",
+        "Legitimate"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: What is the term for power derived from status or position in an organisation?\n(A) Legitimate (B) Expert (C) Referent (D) Reward\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Legitimate"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "Which writer is most associated with bureaucratic structures?",
+      "subject": "management",
+      "choices": [
+        "Henry Fayol",
+        "Max Weber",
+        "Adam Smith",
+        "Mary Parker Follett"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: Which writer is most associated with bureaucratic structures?\n(A) Adam Smith (B) Henry Fayol (C) Mary Parker Follett (D) Max Weber\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) Max Weber\n"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Who of the following is the industrial philanthropist?",
+      "subject": "management",
+      "choices": [
+        "Frederick Taylor",
+        "Seebohm Rowntree",
+        "Henry Ford",
+        "Max Weber"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about management.\nQ: Who of the following is the industrial philanthropist?\n(A) Frederick Taylor (B) Seebohm Rowntree (C) Henry Ford (D) Max Weber\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Seebohm Rowntree"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  }
+]

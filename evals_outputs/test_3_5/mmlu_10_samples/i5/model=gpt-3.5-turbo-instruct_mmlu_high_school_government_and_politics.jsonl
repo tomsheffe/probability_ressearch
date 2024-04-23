@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater.",
+        "Once a church has been recognized by the federal government, its tax-exempt status can never be revoked.",
+        "Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.",
+        "State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed."
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Which of the following best describes the balance the Supreme Court has struck between the establishment clause and the free-exercise clause?\n(A) Once a church has been recognized by the federal government, its tax-exempt status can never be revoked. (B) Freedom of speech is protected except in certain situations, such as yelling \"fire\" in a crowded theater. (C) State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed. (D) Once Congress has created an administrative agency, that agency can be dissolved only by a constitutional amendment.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) State-sponsored prayer during school hours is prohibited, but voluntary prayer by student groups before school is allowed."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Which of the following statements does NOT accurately describe voting behavior in the United States?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21.",
+        "A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.",
+        "Registered voters are more likely to vote in general elections than they are in primary elections.",
+        "More women than men have voted in every presidential election since 1980."
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Which of the following statements does NOT accurately describe voting behavior in the United States?\n(A) More women than men have voted in every presidential election since 1980. (B) Registered voters are more likely to vote in general elections than they are in primary elections. (C) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21. (D) A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Which of the following plays the most significant role in forming a child's political views?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "The geographical area in which the child grows up",
+        "The child's family",
+        "The media to which the child is exposed",
+        "The child's religion"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Which of the following plays the most significant role in forming a child's political views?\n(A) The geographical area in which the child grows up (B) The child's religion (C) The child's family (D) The media to which the child is exposed\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) The child's family"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "What power was granted to the states by the Articles of Confederation but not by the Constitution?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "Coining money",
+        "Authorizing constitutional amendments",
+        "Having representation in Congress",
+        "Appealing to the president to adjudicate disputes"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: What power was granted to the states by the Articles of Confederation but not by the Constitution?\n(A) Having representation in Congress (B) Appealing to the president to adjudicate disputes (C) Coining money (D) Authorizing constitutional amendments\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "(C) Coining money"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "The primary function of political action committees (PACs) is to",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "contribute money to candidates for election",
+        "coordinate local get-out-the-vote campaigns",
+        "promote the defeat of incumbents in the federal and state legislatures",
+        "organize protest demonstrations and other acts of civil disobedience"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: The primary function of political action committees (PACs) is to\n(A) organize protest demonstrations and other acts of civil disobedience (B) promote the defeat of incumbents in the federal and state legislatures (C) coordinate local get-out-the-vote campaigns (D) contribute money to candidates for election\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) contribute money to candidates for election "
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "Federal judges are subject to which of the following disciplinary actions?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "Impeachment, conviction, and removal from office by Congress",
+        "Removal from office by the appointing president",
+        "Removal from office by the president-elect",
+        "Recall elections by citizens residing in the district over which the judge has jurisdiction"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Federal judges are subject to which of the following disciplinary actions?\n(A) Removal from office by the appointing president (B) Recall elections by citizens residing in the district over which the judge has jurisdiction (C) Removal from office by the president-elect (D) Impeachment, conviction, and removal from office by Congress\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " D) Impeachment, conviction, and removal from office by Congress"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "vice president",
+        "president's chief of staff",
+        "national security advisor",
+        "chair of the Federal Reserve Board"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: The amount of access cabinet secretaries have to the president is most likely to be controlled by the\n(A) vice president (B) president's chief of staff (C) chair of the Federal Reserve Board (D) national security advisor\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) president's chief of staff"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Which of the following defines the salience of a political issue?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "The amount of coverage the issue receives in the major news media",
+        "The degree to which public opinion on the issue is likely to shift quickly",
+        "The number of people affected by the issue",
+        "The importance of the issue to a particular individual or group"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Which of the following defines the salience of a political issue?\n(A) The importance of the issue to a particular individual or group (B) The degree to which public opinion on the issue is likely to shift quickly (C) The amount of coverage the issue receives in the major news media (D) The number of people affected by the issue\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) The importance of the issue to a particular individual or group"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "which special interest groups have endorsed which candidates",
+        "the relative strength of each candidate's support, as indicated by public opinion polls",
+        "candidates' positions on international issues",
+        "candidates' positions on domestic issues"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Voters who rely exclusively on television network news coverage of national elections are most likely to be aware of\n(A) candidates' positions on domestic issues (B) which special interest groups have endorsed which candidates (C) candidates' positions on international issues (D) the relative strength of each candidate's support, as indicated by public opinion polls\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) candidates' positions on domestic issues"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Which principle was established by the Supreme Court's decision in Marbury v. Madison?",
+      "subject": "high_school_government_and_politics",
+      "choices": [
+        "One man, one vote",
+        "Separate but equal",
+        "Judicial review",
+        "Right to privacy"
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school government and politics.\nQ: Which principle was established by the Supreme Court's decision in Marbury v. Madison?\n(A) Right to privacy (B) One man, one vote (C) Judicial review (D) Separate but equal\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "C) Judicial review"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  }
+]

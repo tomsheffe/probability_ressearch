@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "Unlike most other early civilizations, Minoan culture shows little evidence of:",
+      "subject": "prehistory",
+      "choices": [
+        "trade.",
+        "warfare.",
+        "the development of a common religion.",
+        "conspicuous consumption by elites."
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: Unlike most other early civilizations, Minoan culture shows little evidence of:\n(A) trade. (B) warfare. (C) the development of a common religion. (D) conspicuous consumption by elites.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "(B) warfare."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "The greatest Egyptian pyramids at Giza were built:",
+      "subject": "prehistory",
+      "choices": [
+        "as burial monuments for the pharaoh Khufu, Khufu's son Khafre, and Khufu's grandson Menkaure.",
+        "by slaves who were coerced and worked under the threat of death, as described in the book of Exodus of the Old Testament.",
+        "in the construction frenzy of the 6th dynasty.",
+        "all of the above."
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: The greatest Egyptian pyramids at Giza were built:\n(A) in the construction frenzy of the 6th dynasty. (B) by slaves who were coerced and worked under the threat of death, as described in the book of Exodus of the Old Testament. (C) as burial monuments for the pharaoh Khufu, Khufu's son Khafre, and Khufu's grandson Menkaure. (D) all of the above.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) as burial monuments for the pharaoh Khufu, Khufu's son Khafre, and Khufu's grandson Menkaure."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "When anatomically modern humans first arrived in the Middle East, who did they encounter?",
+      "subject": "prehistory",
+      "choices": [
+        "Neandertals, the evolutionary descendants of the premodern human inhabitants of Europe and Asia",
+        "Homo erectus, the evolutionary descendants of the premodern human inhabitants of Europe and Asia",
+        "Homo sapiens, who had evolved independently in Asia and arrived there by 200,000 years ago",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: When anatomically modern humans first arrived in the Middle East, who did they encounter?\n(A) All of the above (B) Neandertals, the evolutionary descendants of the premodern human inhabitants of Europe and Asia (C) Homo sapiens, who had evolved independently in Asia and arrived there by 200,000 years ago (D) Homo erectus, the evolutionary descendants of the premodern human inhabitants of Europe and Asia\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Neandertals, the evolutionary descendants of the premodern human inhabitants of Europe and Asia"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "The “Lion Man” from Hohlenstein-Stadel cave is an example of:",
+      "subject": "prehistory",
+      "choices": [
+        "mobiliary art.",
+        "long-distance trade of exotic raw materials.",
+        "parietal art.",
+        "a Venus figurine."
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: The “Lion Man” from Hohlenstein-Stadel cave is an example of:\n(A) long-distance trade of exotic raw materials. (B) a Venus figurine. (C) mobiliary art. (D) parietal art.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) mobiliary art."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "At its peak, the palace at Knossos is thought to have had over _________ rooms.",
+      "subject": "prehistory",
+      "choices": [
+        "100",
+        "500",
+        "1,000",
+        "5,000"
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: At its peak, the palace at Knossos is thought to have had over _________ rooms.\n(A) 1,000 (B) 5,000 (C) 500 (D) 100\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "5,000"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "The Hopewell were complex rank societies, but they were not a state. Hopewell culture lacked all of the following elements EXCEPT:",
+      "subject": "prehistory",
+      "choices": [
+        "formal government",
+        "monumental earthworks",
+        "urban centers",
+        "a permanent military"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: The Hopewell were complex rank societies, but they were not a state. Hopewell culture lacked all of the following elements EXCEPT:\n(A) a permanent military (B) urban centers (C) formal government (D) monumental earthworks\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) a permanent military"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Markings found on the mud-bricks of Huaca del Sol are probably:",
+      "subject": "prehistory",
+      "choices": [
+        "instructions for the builders written there by the engineers.",
+        "random scratches and not a meaningful script or written language.",
+        "intended to identify the local group that had produced them.",
+        "simple arithmetic performed by carpenters on the building site."
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: Markings found on the mud-bricks of Huaca del Sol are probably:\n(A) random scratches and not a meaningful script or written language. (B) simple arithmetic performed by carpenters on the building site. (C) instructions for the builders written there by the engineers. (D) intended to identify the local group that had produced them.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) intended to identify the local group that had produced them."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "The 30 upright stones at Stonehenge are called _______; the horizontal stones are _________.",
+      "subject": "prehistory",
+      "choices": [
+        "legumes, sarsens",
+        "lintels, stelae",
+        "sarsens, lintels",
+        "trilithon, tholoi"
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: The 30 upright stones at Stonehenge are called _______; the horizontal stones are _________.\n(A) sarsens, lintels (B) legumes, sarsens (C) trilithon, tholoi (D) lintels, stelae\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) sarsens, lintels"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "The secondarily altricial condition of modern human babies may have been an evolutionary solution, in that:",
+      "subject": "prehistory",
+      "choices": [
+        "the brain size of hominids had not grown for more than a million years, making it difficult for babies to walk.",
+        "it allowed for bipedalism and independence from the mother at an earlier age.",
+        "it allowed for subsequent growth of the brain, since bipedalism had resulted in a narrowed birth canal in the female pelvis.",
+        "it allowed for growth of the brain to nearly adult size prior to birth, since bipedalism had resulted in a wider birth canal in the female pelvis."
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: The secondarily altricial condition of modern human babies may have been an evolutionary solution, in that:\n(A) it allowed for bipedalism and independence from the mother at an earlier age. (B) it allowed for growth of the brain to nearly adult size prior to birth, since bipedalism had resulted in a wider birth canal in the female pelvis. (C) the brain size of hominids had not grown for more than a million years, making it difficult for babies to walk. (D) it allowed for subsequent growth of the brain, since bipedalism had resulted in a narrowed birth canal in the female pelvis.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) it allowed for growth of the brain to nearly adult size prior to birth, since bipedalism had resulted in a wider birth canal in the female pelvis."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Research on C3 and C4 pathways indicates that changes in plant communities were associated with a transition in the diets of ancient hominids from:",
+      "subject": "prehistory",
+      "choices": [
+        "species focused on grasses to nuts and fruits.",
+        "meat to fruits and vegetables.",
+        "fruits and vegetables to fish.",
+        "nuts and fruits to species more focused on grasses."
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about prehistory.\nQ: Research on C3 and C4 pathways indicates that changes in plant communities were associated with a transition in the diets of ancient hominids from:\n(A) nuts and fruits to species more focused on grasses. (B) meat to fruits and vegetables. (C) species focused on grasses to nuts and fruits. (D) fruits and vegetables to fish.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) nuts and fruits to species more focused on grasses."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  }
+]

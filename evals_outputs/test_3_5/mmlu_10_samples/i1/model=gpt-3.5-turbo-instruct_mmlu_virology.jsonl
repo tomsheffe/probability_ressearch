@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "How many human polyomaviruses are known at present?",
+      "subject": "virology",
+      "choices": [
+        "100",
+        "1",
+        "10",
+        "unknown"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: How many human polyomaviruses are known at present?\n(A) 10 (B) 100 (C) 1 (D) unknown\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "10"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "AIDS activism in the U.S. resulted in:",
+      "subject": "virology",
+      "choices": [
+        "Food and Drug Administration reforms",
+        "Easier access to investigational drugs",
+        "Changes in the way medicine was practiced in the U.S.",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: AIDS activism in the U.S. resulted in:\n(A) Changes in the way medicine was practiced in the U.S. (B) Food and Drug Administration reforms (C) All of the above (D) Easier access to investigational drugs\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) All of the above"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Globally, the most deaths are caused by:",
+      "subject": "virology",
+      "choices": [
+        "Respiratory infections",
+        "Diarrheal diseases",
+        "Malaria",
+        "Tuberculosis"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: Globally, the most deaths are caused by:\n(A) Malaria (B) Respiratory infections (C) Tuberculosis (D) Diarrheal diseases\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(B) Respiratory infections"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "What happens during the 'incubation period'?",
+      "subject": "virology",
+      "choices": [
+        "The virus is cleared from the body by the immune system",
+        "Virus replication happens at an intracellular level",
+        "This period commonly lasts for a few days",
+        "This period commonly lasts for a few hours"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: What happens during the 'incubation period'?\n(A) This period commonly lasts for a few days (B) This period commonly lasts for a few hours (C) The virus is cleared from the body by the immune system (D) Virus replication happens at an intracellular level\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "A) This period commonly lasts for a few days"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Newborn infants in countries with limited access to safe water and low levels of education should be:",
+      "subject": "virology",
+      "choices": [
+        "Exclusively formula fed for six months",
+        "Exclusively breast fed for six months",
+        "Should receive both breast milk and other foods as tolerated in the first 6",
+        "months"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: Newborn infants in countries with limited access to safe water and low levels of education should be:\n(A) months (B) Exclusively breast fed for six months (C) Exclusively formula fed for six months (D) Should receive both breast milk and other foods as tolerated in the first 6\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Exclusively breast fed for six months"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "Achieving effective change in a community is usually dependent on which of the following segments of society?",
+      "subject": "virology",
+      "choices": [
+        "Innovators",
+        "Early adapters",
+        "Middle adapters",
+        "Late adapters"
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: Achieving effective change in a community is usually dependent on which of the following segments of society?\n(A) Innovators (B) Late adapters (C) Early adapters (D) Middle adapters\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nC) Early adapters"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "“Contingency management” is”:",
+      "subject": "virology",
+      "choices": [
+        "A strategy of last resort for reducing high-risk behaviors",
+        "Paying drug users for negative urine specimens",
+        "Paying sex workers to use condoms",
+        "Paying drug users to use condoms"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: “Contingency management” is”:\n(A) Paying sex workers to use condoms (B) Paying drug users for negative urine specimens (C) A strategy of last resort for reducing high-risk behaviors (D) Paying drug users to use condoms\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Paying drug users for negative urine specimens"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Typical clinical symptoms following infection with astroviruses include which of the following?",
+      "subject": "virology",
+      "choices": [
+        "Acute pneumonia",
+        "Gastroenteritis in children",
+        "Hepatitis",
+        "rashes"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: Typical clinical symptoms following infection with astroviruses include which of the following?\n(A) Acute pneumonia (B) rashes (C) Gastroenteritis in children (D) Hepatitis\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Gastroenteritis in children "
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "Which of the following is the most special characteristic of the adaptive immune system?",
+      "subject": "virology",
+      "choices": [
+        "Antibodies",
+        "T cells",
+        "Memory T cells",
+        "Clonal expansion of pre-existing antibodies and/or T cells"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: Which of the following is the most special characteristic of the adaptive immune system?\n(A) Memory T cells (B) Antibodies (C) T cells (D) Clonal expansion of pre-existing antibodies and/or T cells\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Memory T cells"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?",
+      "subject": "virology",
+      "choices": [
+        "Interferon and ribavirin",
+        "Lamivudine and ribavirin",
+        "Combinations of adefovir and entecavir and/or tenofovir (DAA)",
+        "Interferons alone"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about virology.\nQ: Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\n(A) Interferon and ribavirin (B) Combinations of adefovir and entecavir and/or tenofovir (DAA) (C) Interferons alone (D) Lamivudine and ribavirin\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nB) Combinations of adefovir and entecavir and/or tenofovir (DAA)"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  }
+]

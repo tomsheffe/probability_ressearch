@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "As of 2016, about what percentage of adults aged 18 years or older were overweight?",
+      "subject": "global_facts",
+      "choices": [
+        "10%",
+        "20%",
+        "40%",
+        "80%"
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: As of 2016, about what percentage of adults aged 18 years or older were overweight?\n(A) 40% (B) 10% (C) 20% (D) 80%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "40%"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?",
+      "subject": "global_facts",
+      "choices": [
+        "About $300",
+        "About $3k",
+        "About $8k",
+        "About $15k"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: What was GDP per capita in the United States in 1850 when adjusting for inflation and PPP in 2011 prices?\n(A) About $8k (B) About $15k (C) About $300 (D) About $3k\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) About $300"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "As of 2019, about what percentage of people from the United States says homosexuality should be accepted by society?",
+      "subject": "global_facts",
+      "choices": [
+        "52%",
+        "62%",
+        "72%",
+        "82%"
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: As of 2019, about what percentage of people from the United States says homosexuality should be accepted by society?\n(A) 82% (B) 52% (C) 62% (D) 72%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "72%"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Which of the following countries generated the most total energy from solar sources in 2019?",
+      "subject": "global_facts",
+      "choices": [
+        "China",
+        "United States",
+        "Germany",
+        "Japan"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: Which of the following countries generated the most total energy from solar sources in 2019?\n(A) Japan (B) Germany (C) China (D) United States\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) China"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?",
+      "subject": "global_facts",
+      "choices": [
+        "by 5 fold",
+        "by 10 fold",
+        "by 15 fold",
+        "by 20 fold"
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: Controlling for inflation and PPP-adjustment, about how much did GDP per capita increase from 1950 to 2016 in Japan?\n(A) by 20 fold (B) by 15 fold (C) by 10 fold (D) by 5 fold\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) by 20 fold"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "What is the biggest cause of death in children under five years old (as of 2017)?",
+      "subject": "global_facts",
+      "choices": [
+        "Lower respiratory infections",
+        "Preterm birth complications",
+        "Diarrheal diseases",
+        "Malaria"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: What is the biggest cause of death in children under five years old (as of 2017)?\n(A) Malaria (B) Preterm birth complications (C) Lower respiratory infections (D) Diarrheal diseases\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Preterm birth complications"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "As of 2019, about what percentage of the global population does not have access to safe drinking water?",
+      "subject": "global_facts",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: As of 2019, about what percentage of the global population does not have access to safe drinking water?\n(A) 40% (B) 10% (C) 30% (D) 20%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "30% (C)"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "About what percentage of survey respondents from India report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?",
+      "subject": "global_facts",
+      "choices": [
+        "29%",
+        "49%",
+        "69%",
+        "89%"
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: About what percentage of survey respondents from India report having paid a bribe in the last year to access public services (such as education; judiciary; medical and health; police; registry and permit services; utilities; tax revenue and customs; and land service) as of 2017?\n(A) 29% (B) 49% (C) 89% (D) 69%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "C) 69%"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "As of 2017, what fraction of the population in Brazil used the internet in the past three months?",
+      "subject": "global_facts",
+      "choices": [
+        "18%",
+        "38%",
+        "58%",
+        "78%"
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: As of 2017, what fraction of the population in Brazil used the internet in the past three months?\n(A) 38% (B) 78% (C) 58% (D) 18%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) 78% "
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "As of 2017, what fraction of the population in India used the internet in the past three months?",
+      "subject": "global_facts",
+      "choices": [
+        "11%",
+        "26%",
+        "41%",
+        "56%"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about global facts.\nQ: As of 2017, what fraction of the population in India used the internet in the past three months?\n(A) 56% (B) 11% (C) 26% (D) 41%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) 26%"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  }
+]

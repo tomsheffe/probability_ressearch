@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "Aesthetics deals with objects that are_____.",
+      "subject": "philosophy",
+      "choices": [
+        "essential to our existence",
+        "unimportant to most people",
+        "not essential to our existence",
+        "rarely viewed"
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: Aesthetics deals with objects that are_____.\n(A) unimportant to most people (B) essential to our existence (C) rarely viewed (D) not essential to our existence\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) not essential to our existence"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.",
+      "subject": "philosophy",
+      "choices": [
+        "the state",
+        "the justice system",
+        "the body",
+        "the soul"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.\n(A) the state (B) the body (C) the justice system (D) the soul\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) the soul"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "According to Kant, nothing can be called “good” without qualification except _____.",
+      "subject": "philosophy",
+      "choices": [
+        "right action",
+        "good consequences",
+        "happiness",
+        "a good will"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: According to Kant, nothing can be called “good” without qualification except _____.\n(A) right action (B) happiness (C) good consequences (D) a good will\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) a good will"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Plato's view is that true beauty is _____.",
+      "subject": "philosophy",
+      "choices": [
+        "found in everyday objects",
+        "nonexistent",
+        "everywhere in the natural world",
+        "not of this world"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: Plato's view is that true beauty is _____.\n(A) everywhere in the natural world (B) nonexistent (C) found in everyday objects (D) not of this world\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) not of this world"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "In Aristotle’s terminology, incontinence is when:",
+      "subject": "philosophy",
+      "choices": [
+        "one does not know that one’s actions are wrong.",
+        "one knows that one’s actions are wrong, but does them anyway.",
+        "one knows that one’s feelings are inappropriate, and does not act on them.",
+        "one does the right action, but for the wrong reason."
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: In Aristotle’s terminology, incontinence is when:\n(A) one knows that one’s feelings are inappropriate, and does not act on them. (B) one does the right action, but for the wrong reason. (C) one does not know that one’s actions are wrong. (D) one knows that one’s actions are wrong, but does them anyway.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) one knows that one’s actions are wrong, but does them anyway."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "Nagel claims that most skeptical arguments:",
+      "subject": "philosophy",
+      "choices": [
+        "are the result of applying arbitrarily stringent standards.",
+        "are based on linguistic confusions.",
+        "are logically self-refuting.",
+        "grow from the consistent application of ordinary standards."
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: Nagel claims that most skeptical arguments:\n(A) are logically self-refuting. (B) are based on linguistic confusions. (C) are the result of applying arbitrarily stringent standards. (D) grow from the consistent application of ordinary standards.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) grow from the consistent application of ordinary standards."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Rawls conceives of the original contract as one to:",
+      "subject": "philosophy",
+      "choices": [
+        "enter a particular society.",
+        "set up a particular form of government.",
+        "establish the principles of justice for the basic structure of society.",
+        "establish the content of morality."
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: Rawls conceives of the original contract as one to:\n(A) set up a particular form of government. (B) establish the principles of justice for the basic structure of society. (C) enter a particular society. (D) establish the content of morality.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) establish the principles of justice for the basic structure of society."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "According to Singer, compliance with his principle requires:",
+      "subject": "philosophy",
+      "choices": [
+        "modest changes to our personal habits, but not to our society as a whole.",
+        "modest changes to our personal habits, as well as to society.",
+        "drastic changes to our personal habits, but not to our society.",
+        "drastic changes to both our personal habits and to our society."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: According to Singer, compliance with his principle requires:\n(A) modest changes to our personal habits, but not to our society as a whole. (B) drastic changes to both our personal habits and to our society. (C) modest changes to our personal habits, as well as to society. (D) drastic changes to our personal habits, but not to our society.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) modest changes to our personal habits, as well as to society."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "For Socrates, the soul is harmed by lack of _____.",
+      "subject": "philosophy",
+      "choices": [
+        "knowledge",
+        "wealth",
+        "community",
+        "courage"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: For Socrates, the soul is harmed by lack of _____.\n(A) courage (B) wealth (C) community (D) knowledge\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) knowledge"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "According to Kant, morality requires us to:",
+      "subject": "philosophy",
+      "choices": [
+        "perform the action that leads to the greatest total happiness.",
+        "act only on maxims that we can will to become universal laws.",
+        "behave only in such a way as a perfectly virtuous person would behave.",
+        "place the interests of others above the interests of ourselves."
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about philosophy.\nQ: According to Kant, morality requires us to:\n(A) act only on maxims that we can will to become universal laws. (B) behave only in such a way as a perfectly virtuous person would behave. (C) place the interests of others above the interests of ourselves. (D) perform the action that leads to the greatest total happiness.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) act only on maxims that we can will to become universal laws."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  }
+]

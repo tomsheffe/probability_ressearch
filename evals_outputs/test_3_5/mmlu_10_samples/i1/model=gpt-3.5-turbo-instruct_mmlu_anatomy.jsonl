@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral",
+      "subject": "anatomy",
+      "choices": [
+        "paralysis of the facial muscles.",
+        "paralysis of the facial muscles and loss of taste.",
+        "paralysis of the facial muscles, loss of taste and lacrimation.",
+        "paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation."
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\n(A) paralysis of the facial muscles, loss of taste and lacrimation. (B) paralysis of the facial muscles and loss of taste. (C) paralysis of the facial muscles. (D) paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nA: (A) paralysis of the facial muscles, loss of taste and lacrimation. "
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "A \"dished face\" profile is often associated with",
+      "subject": "anatomy",
+      "choices": [
+        "a protruding mandible due to reactivation of the condylar cartilage by acromegaly.",
+        "a recessive maxilla due to failure of elongation of the cranial base.",
+        "an enlarged frontal bone due to hydrocephaly.",
+        "defective development of the maxillary air sinus."
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: A \"dished face\" profile is often associated with\n(A) an enlarged frontal bone due to hydrocephaly. (B) defective development of the maxillary air sinus. (C) a recessive maxilla due to failure of elongation of the cranial base. (D) a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) a recessive maxilla due to failure of elongation of the cranial base."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Which of the following best describes the structure that collects urine in the body?",
+      "subject": "anatomy",
+      "choices": [
+        "Bladder",
+        "Kidney",
+        "Ureter",
+        "Urethra"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: Which of the following best describes the structure that collects urine in the body?\n(A) Urethra (B) Bladder (C) Kidney (D) Ureter\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Bladder"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Which of the following structures is derived from ectomesenchyme?",
+      "subject": "anatomy",
+      "choices": [
+        "Motor neurons",
+        "Skeletal muscles",
+        "Melanocytes",
+        "Sweat glands"
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: Which of the following structures is derived from ectomesenchyme?\n(A) Melanocytes (B) Motor neurons (C) Skeletal muscles (D) Sweat glands\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) Melanocytes"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?",
+      "subject": "anatomy",
+      "choices": [
+        "Afferent arteriole",
+        "Glomerulus",
+        "Loop of Henle",
+        "Renal pelvis"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\n(A) Loop of Henle (B) Glomerulus (C) Afferent arteriole (D) Renal pelvis\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Glomerulus"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.",
+      "subject": "anatomy",
+      "choices": [
+        "They will be unable to breathe without life support.",
+        "They will only be able to breathe quietly.",
+        "It is impossible to predict an effect on breathing.",
+        "Breathing will be unaffected."
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\n(A) They will be unable to breathe without life support. (B) It is impossible to predict an effect on breathing. (C) They will only be able to breathe quietly. (D) Breathing will be unaffected.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "A) They will be unable to breathe without life support."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Which of the following anatomical regions of abdomen lies just distal to the sternum?",
+      "subject": "anatomy",
+      "choices": [
+        "Epigastric",
+        "Hypochondriac",
+        "Hypogastric",
+        "Lumbar"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: Which of the following anatomical regions of abdomen lies just distal to the sternum?\n(A) Hypochondriac (B) Epigastric (C) Hypogastric (D) Lumbar\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Epigastric"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Which of the following best describes the human body's defense mechanism against environmental bacteria?",
+      "subject": "anatomy",
+      "choices": [
+        "Hair in the nose",
+        "Mucous membranes",
+        "Osteoblasts",
+        "Saliva"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: Which of the following best describes the human body's defense mechanism against environmental bacteria?\n(A) Hair in the nose (B) Saliva (C) Mucous membranes (D) Osteoblasts\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Mucous membranes"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "The palatine processes begin to fuse at",
+      "subject": "anatomy",
+      "choices": [
+        "six weeks post-fertilization.",
+        "eight weeks post-fertilization.",
+        "ten weeks post-fertilization.",
+        "twelve weeks post-fertilization."
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: The palatine processes begin to fuse at\n(A) ten weeks post-fertilization. (B) six weeks post-fertilization. (C) twelve weeks post-fertilization. (D) eight weeks post-fertilization.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) eight weeks post-fertilization."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Primary motor cortex activity results in",
+      "subject": "anatomy",
+      "choices": [
+        "bilateral contraction of antigravity limb muscles.",
+        "bilateral contraction of limb musculature.",
+        "contraction of ipsilateral limb musculature.",
+        "contraction of contralateral limb musculature."
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about anatomy.\nQ: Primary motor cortex activity results in\n(A) bilateral contraction of limb musculature. (B) contraction of ipsilateral limb musculature. (C) bilateral contraction of antigravity limb muscles. (D) contraction of contralateral limb musculature.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) contraction of contralateral limb musculature. "
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  }
+]

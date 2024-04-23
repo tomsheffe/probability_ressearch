@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "In a Robertsonian translocation fusion occurs at the:",
+      "subject": "medical_genetics",
+      "choices": [
+        "telomeres.",
+        "centromeres.",
+        "histones.",
+        "ends of the long arms."
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: In a Robertsonian translocation fusion occurs at the:\n(A) telomeres. (B) histones. (C) centromeres. (D) ends of the long arms.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) centromeres. "
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Zinc finger proteins and helix-turn-helix proteins are",
+      "subject": "medical_genetics",
+      "choices": [
+        "types of DNA-binding proteins",
+        "involved in the control of translation",
+        "components of ribosomes",
+        "part of the hemoglobin in blood cells"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: Zinc finger proteins and helix-turn-helix proteins are\n(A) involved in the control of translation (B) part of the hemoglobin in blood cells (C) types of DNA-binding proteins (D) components of ribosomes\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) types of DNA-binding proteins "
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?",
+      "subject": "medical_genetics",
+      "choices": [
+        "0.01",
+        "0.001",
+        "0.02",
+        "0.0001"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: If the frequency of males affected with an X-linked recessive condition in a human population is .10 (one in ten), what will be the expected frequency of affected females?\n(A) 0.001 (B) 0.02 (C) 0.0001 (D) 0.01\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "0.01 (D)"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "In DNA adenine normally pairs with:",
+      "subject": "medical_genetics",
+      "choices": [
+        "cytosine.",
+        "guanine.",
+        "thymine.",
+        "uracil."
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: In DNA adenine normally pairs with:\n(A) cytosine. (B) guanine. (C) uracil. (D) thymine.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "(D) thymine. "
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:",
+      "subject": "medical_genetics",
+      "choices": [
+        "autosomal dominant.",
+        "autosomal recessive.",
+        "X-linked dominant.",
+        "X-linked recessive."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: The pattern of inheritance shown by malignant hyperthermia (hyperpyrexia) is:\n(A) autosomal recessive. (B) autosomal dominant. (C) X-linked dominant. (D) X-linked recessive.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " B) autosomal dominant."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "Mapping of human chromosomes:",
+      "subject": "medical_genetics",
+      "choices": [
+        "has been restricted to the sex chromosomes because of small family sizes",
+        "proceeded much more successfully as large numbers of DNA markers became available.",
+        "has determined that the number of linkage groups is about twice the number of chromosomes",
+        "has demonstrated that almost all of the DNA is involved in coding for genes"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: Mapping of human chromosomes:\n(A) has been restricted to the sex chromosomes because of small family sizes (B) has demonstrated that almost all of the DNA is involved in coding for genes (C) has determined that the number of linkage groups is about twice the number of chromosomes (D) proceeded much more successfully as large numbers of DNA markers became available.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) proceeded much more successfully as large numbers of DNA markers became available."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Intergenerational transmission to offspring can occur as a result of parental exposures to ______.",
+      "subject": "medical_genetics",
+      "choices": [
+        "war",
+        "natural disasters",
+        "hunger",
+        "all of these"
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: Intergenerational transmission to offspring can occur as a result of parental exposures to ______.\n(A) natural disasters (B) hunger (C) all of these (D) war\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " C) all of these"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Asp235Phe in a molecular report indicates that:",
+      "subject": "medical_genetics",
+      "choices": [
+        "asparagine has been replaced by phenylalanine.",
+        "phenylalanine has been replaced by asparagine.",
+        "aspartic acid has been replaced by phenylalanine.",
+        "phenylalanine has been replaced by aspartic acid."
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: Asp235Phe in a molecular report indicates that:\n(A) asparagine has been replaced by phenylalanine. (B) phenylalanine has been replaced by aspartic acid. (C) phenylalanine has been replaced by asparagine. (D) aspartic acid has been replaced by phenylalanine.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) asparagine has been replaced by phenylalanine."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "The risk of abnormality in the child of a mother with untreated phenylketonuria is:",
+      "subject": "medical_genetics",
+      "choices": [
+        "1%",
+        "10%",
+        "25%",
+        "Almost 100%"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: The risk of abnormality in the child of a mother with untreated phenylketonuria is:\n(A) Almost 100% (B) 1% (C) 25% (D) 10%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nA) Almost 100% "
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Exon skipping is associated with:",
+      "subject": "medical_genetics",
+      "choices": [
+        "nonsense mutations.",
+        "regulatory mutations.",
+        "RNA processing mutations.",
+        "silent mutations."
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about medical genetics.\nQ: Exon skipping is associated with:\n(A) silent mutations. (B) regulatory mutations. (C) RNA processing mutations. (D) nonsense mutations.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) RNA processing mutations"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "The Barkhausen criterion for an oscillator",
+      "subject": "electrical_engineering",
+      "choices": [
+        "Loop gain should be unity",
+        "Loop gain should be less than unity",
+        "The phase of a feedback signal with respect to input should be 0° or 360°",
+        "Both A and C"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: The Barkhausen criterion for an oscillator\n(A) The phase of a feedback signal with respect to input should be 0° or 360° (B) Loop gain should be less than unity (C) Loop gain should be unity (D) Both A and C\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " D) Both A and C"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because",
+      "subject": "electrical_engineering",
+      "choices": [
+        "It loads the circuit moderately.",
+        "It loads the circuit to maximum extent.",
+        "It uses centre zero galvanometer instead of voltmeter.",
+        "It does not load the circuit at all."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because\n(A) It loads the circuit to maximum extent. (B) It does not load the circuit at all. (C) It uses centre zero galvanometer instead of voltmeter. (D) It loads the circuit moderately.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) It does not load the circuit at all."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Which of these sets of logic gates are designated as universal gates?",
+      "subject": "electrical_engineering",
+      "choices": [
+        "NOR, NAND.",
+        "XOR, NOR, NAND.",
+        "OR, NOT, AND.",
+        "NOR, NAND, XNOR."
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: Which of these sets of logic gates are designated as universal gates?\n(A) XOR, NOR, NAND. (B) OR, NOT, AND. (C) NOR, NAND. (D) NOR, NAND, XNOR.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) XOR, NOR, NAND."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",
+      "subject": "electrical_engineering",
+      "choices": [
+        "30° to 150°.",
+        "30° to 180°.",
+        "60° to 120°.",
+        "60° to 180°."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is\n(A) 30° to 180°. (B) 30° to 150°. (C) 60° to 180°. (D) 60° to 120°.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) 60° to 120°.\n"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "A box which tells the effect of inputs on control sub system is known as",
+      "subject": "electrical_engineering",
+      "choices": [
+        "Data Box.",
+        "Logical box.",
+        "Decision box.",
+        "State box."
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: A box which tells the effect of inputs on control sub system is known as\n(A) Logical box. (B) State box. (C) Data Box. (D) Decision box.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " B) State box."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is",
+      "subject": "electrical_engineering",
+      "choices": [
+        "same as that produced by one plate.",
+        "double the field produced by one plate.",
+        "dependent on coordinates of field points.",
+        "zero."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is\n(A) dependent on coordinates of field points. (B) zero. (C) double the field produced by one plate. (D) same as that produced by one plate.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) same as that produced by one plate."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be",
+      "subject": "electrical_engineering",
+      "choices": [
+        "Low.",
+        "Very low.",
+        "High.",
+        "Almost zero."
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: The resistance in the circuit of the moving coil of a dynamometer wattmeter should be\n(A) Almost zero. (B) Low. (C) High. (D) Very low.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) High."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "The following are the necessary requirements of an oscillator",
+      "subject": "electrical_engineering",
+      "choices": [
+        "Amplitude stability",
+        "Frequency stability",
+        "Power stability",
+        "Both A and B"
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: The following are the necessary requirements of an oscillator\n(A) Amplitude stability (B) Frequency stability (C) Both A and B (D) Power stability\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "C) Both A and B"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "The normal voltage used in directional heating is",
+      "subject": "electrical_engineering",
+      "choices": [
+        "1.5 KV.",
+        "15 KV.",
+        "33 KV.",
+        "66 KV."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: The normal voltage used in directional heating is\n(A) 15 KV. (B) 1.5 KV. (C) 33 KV. (D) 66 KV.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "33 KV."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "LC oscillators are used for produce a waveform with frequency ranging from",
+      "subject": "electrical_engineering",
+      "choices": [
+        "1MHz to 500 MHz",
+        "100 KHz to 500 MHz",
+        "1 KHz to 1 MHz",
+        "1MHz to 100 GHz"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about electrical engineering.\nQ: LC oscillators are used for produce a waveform with frequency ranging from\n(A) 100 KHz to 500 MHz (B) 1 KHz to 1 MHz (C) 1MHz to 100 GHz (D) 1MHz to 500 MHz\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) 100 KHz to 500 MHz"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  }
+]

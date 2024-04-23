@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "The study of older adults and aging is referred to as",
+      "subject": "human_aging",
+      "choices": [
+        "Gerontology",
+        "Geropsychiatry",
+        "Geriatrics",
+        "Gero-education"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: The study of older adults and aging is referred to as\n(A) Geriatrics (B) Geropsychiatry (C) Gerontology (D) Gero-education\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Gerontology"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Which of the following factors is associated with a decreased risk of Alzheimer's?",
+      "subject": "human_aging",
+      "choices": [
+        "Being African or Hispanic American",
+        "Eating fish",
+        "A lower level of education",
+        "Being married"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: Which of the following factors is associated with a decreased risk of Alzheimer's?\n(A) Being African or Hispanic American (B) A lower level of education (C) Being married (D) Eating fish\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " D) Eating fish"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "The docility hypothesis is that",
+      "subject": "human_aging",
+      "choices": [
+        "Those with low capabilities are more vulnerable to environmental demands",
+        "Those who experience high environmental demands become more docile",
+        "Those who experience high environmental demands become less docile",
+        "Those with less capability are less vulnerable to environmental demands"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: The docility hypothesis is that\n(A) Those who experience high environmental demands become less docile (B) Those with less capability are less vulnerable to environmental demands (C) Those with low capabilities are more vulnerable to environmental demands (D) Those who experience high environmental demands become more docile\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Those with low capabilities are more vulnerable to environmental demands"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Normal memory seems to be improved by",
+      "subject": "human_aging",
+      "choices": [
+        "Aerobic exercise",
+        "Taking acetylcholine",
+        "Taking gingko",
+        "Increasing social contacts"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: Normal memory seems to be improved by\n(A) Taking acetylcholine (B) Aerobic exercise (C) Taking gingko (D) Increasing social contacts\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Aerobic exercise"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "The perspective that development is embedded in history means that",
+      "subject": "human_aging",
+      "choices": [
+        "Change can always occur regardless of age",
+        "Sociocultural conditions must always be considered",
+        "Development in any particular areas (e.g., social) is tied to development in other areas (e.g., cognitive)",
+        "Some characteristics change with age while others do not"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: The perspective that development is embedded in history means that\n(A) Development in any particular areas (e.g., social) is tied to development in other areas (e.g., cognitive) (B) Some characteristics change with age while others do not (C) Sociocultural conditions must always be considered (D) Change can always occur regardless of age\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "C) Sociocultural conditions must always be considered"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "The answer \"both play an important role\" is clearly applicable to the question of",
+      "subject": "human_aging",
+      "choices": [
+        "Nature vs. nurture",
+        "Mechanistic vs organismic",
+        "Continuity vs. discontinuity",
+        "All of these questions"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: The answer \"both play an important role\" is clearly applicable to the question of\n(A) All of these questions (B) Nature vs. nurture (C) Mechanistic vs organismic (D) Continuity vs. discontinuity\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Nature vs. nurture"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Which of the following does NOT usually occur to the lens of the eye as one grows older?",
+      "subject": "human_aging",
+      "choices": [
+        "It becomes thicker",
+        "It yellows",
+        "It becomes clouded",
+        "It fills with fluid"
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: Which of the following does NOT usually occur to the lens of the eye as one grows older?\n(A) It becomes clouded (B) It fills with fluid (C) It yellows (D) It becomes thicker\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) It fills with fluid"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "The houses of the future may allow you to operate virtually everything in the house from a central terminal; such a house is already in production and is referred to as",
+      "subject": "human_aging",
+      "choices": [
+        "Technohouse",
+        "Compuhouse",
+        "Futurehouse",
+        "Smarthouse"
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: The houses of the future may allow you to operate virtually everything in the house from a central terminal; such a house is already in production and is referred to as\n(A) Futurehouse (B) Compuhouse (C) Smarthouse (D) Technohouse\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Smarthouse"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "The reaction time difference between younger and older adults is reduced when older adults",
+      "subject": "human_aging",
+      "choices": [
+        "Practice regular aerobic exercise",
+        "Lift weights on a regular schedule",
+        "Consume large quantities of vitamins",
+        "Practice Tai chi"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: The reaction time difference between younger and older adults is reduced when older adults\n(A) Consume large quantities of vitamins (B) Practice regular aerobic exercise (C) Practice Tai chi (D) Lift weights on a regular schedule\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Practice regular aerobic exercise"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "A major difference between programmed and unprogrammed theories of senescence is that programmed theories",
+      "subject": "human_aging",
+      "choices": [
+        "Attribute senescence only to environmental factors",
+        "Are far too difficulty to test",
+        "Claim that senescence follows a predetermined plan",
+        "Rely too heavily on computer models"
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about human aging.\nQ: A major difference between programmed and unprogrammed theories of senescence is that programmed theories\n(A) Rely too heavily on computer models (B) Are far too difficulty to test (C) Claim that senescence follows a predetermined plan (D) Attribute senescence only to environmental factors\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Claim that senescence follows a predetermined plan"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  }
+]

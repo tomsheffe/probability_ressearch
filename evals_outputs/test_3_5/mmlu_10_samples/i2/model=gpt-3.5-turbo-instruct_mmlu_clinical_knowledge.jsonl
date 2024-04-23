@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "18 gauge.",
+        "20 gauge.",
+        "22 gauge.",
+        "24 gauge."
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?\n(A) 18 gauge. (B) 22 gauge. (C) 20 gauge. (D) 24 gauge.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "18 gauge."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "The key attribute in successful marathon running is:",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "strength.",
+        "power.",
+        "stride length.",
+        "stamina."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: The key attribute in successful marathon running is:\n(A) stride length. (B) stamina. (C) power. (D) strength.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(B) stamina."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Which of the following is the commonest cause of dementia in the UK?",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "Alzheimer's disease.",
+        "Cerebrovascular (stroke) disease.",
+        "Lewy body dementia.",
+        "HIV infection."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: Which of the following is the commonest cause of dementia in the UK?\n(A) Lewy body dementia. (B) Alzheimer's disease. (C) Cerebrovascular (stroke) disease. (D) HIV infection.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Alzheimer's disease."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Which of the following is NOT a symptom of anaphylaxis?",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "Stridor.",
+        "Bradycardia.",
+        "Severe wheeze.",
+        "Rash."
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: Which of the following is NOT a symptom of anaphylaxis?\n(A) Rash. (B) Severe wheeze. (C) Stridor. (D) Bradycardia.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) Bradycardia."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "In what situation are closed pouches applied?",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "The patient has a semi-formed or liquid output.",
+        "The patient has a colostomy.",
+        "In the immediate post-operative period.",
+        "The patient has a urostomy."
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: In what situation are closed pouches applied?\n(A) The patient has a urostomy. (B) The patient has a colostomy. (C) In the immediate post-operative period. (D) The patient has a semi-formed or liquid output.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(B) The patient has a colostomy."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "With an increasing number of sprints the:",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "anaerobic contribution progressively increases.",
+        "pH of the muscle falls below 6.0.",
+        "blood glucose concentration falls below 3 mmol/L.",
+        "relative contribution of aerobic metabolism increases."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: With an increasing number of sprints the:\n(A) pH of the muscle falls below 6.0. (B) relative contribution of aerobic metabolism increases. (C) anaerobic contribution progressively increases. (D) blood glucose concentration falls below 3 mmol/L.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) anaerobic contribution progressively increases."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Which of the following is true in diplopia?",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "Diplopia can never occur if one eye is covered",
+        "The outer image is always the false image",
+        "A fourth nerve palsy occurs when the patient looks upwards",
+        "A sixth nerve palsy causes a divergent squint"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: Which of the following is true in diplopia?\n(A) A sixth nerve palsy causes a divergent squint (B) The outer image is always the false image (C) A fourth nerve palsy occurs when the patient looks upwards (D) Diplopia can never occur if one eye is covered\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) A sixth nerve palsy causes a divergent squint"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Sodium bicarbonate ingestion improves middle distance running performance by:",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+        "reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.",
+        "elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle.",
+        "elevating the pre-exercise muscle pH."
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: Sodium bicarbonate ingestion improves middle distance running performance by:\n(A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle. (B) elevating the pre-exercise muscle pH. (C) elevating the pH and buffering capacity of the extracellular fluid allowing a faster influx of hydrogen ions into muscle. (D) reducing the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) elevating the pH and buffering capacity of the extracellular fluid allowing a faster efflux of hydrogen ions from muscle."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "Codons are composed of:",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "triplet sequences of nucleotide bases in mRNA or DNA .",
+        "quadruplet sequences of nucleotide bases in mRNA or DNA.",
+        "triplet sequences of amino acids in polypeptide chains.",
+        "triplet sequences of deoxyribose sugars in DNA."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: Codons are composed of:\n(A) triplet sequences of deoxyribose sugars in DNA. (B) triplet sequences of nucleotide bases in mRNA or DNA . (C) triplet sequences of amino acids in polypeptide chains. (D) quadruplet sequences of nucleotide bases in mRNA or DNA.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) quadruplet sequences of nucleotide bases in mRNA or DNA."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Fatty acids are transported into the mitochondria bound to:",
+      "subject": "clinical_knowledge",
+      "choices": [
+        "thiokinase.",
+        "coenzyme A (CoA).",
+        "acetyl-CoA.",
+        "carnitine."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about clinical knowledge.\nQ: Fatty acids are transported into the mitochondria bound to:\n(A) acetyl-CoA. (B) carnitine. (C) thiokinase. (D) coenzyme A (CoA).\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "B. carnitine"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  }
+]

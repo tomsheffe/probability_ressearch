@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "A 10-N force at an angle 45° above the horizontal has a horizontal component of about",
+      "subject": "conceptual_physics",
+      "choices": [
+        "7 N",
+        "5 N",
+        "10 N",
+        "12 N"
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: A 10-N force at an angle 45° above the horizontal has a horizontal component of about\n(A) 7 N (B) 12 N (C) 5 N (D) 10 N\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "7 N"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "A completely submerged object always displaces its own",
+      "subject": "conceptual_physics",
+      "choices": [
+        "weight of fluid.",
+        "volume of fluid.",
+        "density of fluid.",
+        "All of these."
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: A completely submerged object always displaces its own\n(A) weight of fluid. (B) volume of fluid. (C) All of these. (D) density of fluid.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) volume of fluid."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light",
+      "subject": "conceptual_physics",
+      "choices": [
+        "totally internally reflects",
+        "passes into the air above",
+        "is absorbed",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: When a diver points a flashlight upward toward the surface of the water at an angle 20° from the normal, the beam of light\n(A) None of these (B) passes into the air above (C) is absorbed (D) totally internally reflects\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) totally internally reflects"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "According to four-dimensional geometry, the angles of a triangle add to 180°",
+      "subject": "conceptual_physics",
+      "choices": [
+        "always.",
+        "sometimes.",
+        "never.",
+        "on planet Earth only."
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: According to four-dimensional geometry, the angles of a triangle add to 180°\n(A) never. (B) sometimes. (C) on planet Earth only. (D) always.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) always."
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "A voltage will be induced in a wire loop when the magnetic field within that loop",
+      "subject": "conceptual_physics",
+      "choices": [
+        "changes",
+        "aligns with the electric field",
+        "is at right angles to the electric field",
+        "converts to magnetic energy"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: A voltage will be induced in a wire loop when the magnetic field within that loop\n(A) aligns with the electric field (B) changes (C) is at right angles to the electric field (D) converts to magnetic energy\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(B) changes"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "Among these colors, the one that has the most energy per photon is",
+      "subject": "conceptual_physics",
+      "choices": [
+        "red",
+        "yellow-green",
+        "blue",
+        "violet"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: Among these colors, the one that has the most energy per photon is\n(A) violet (B) red (C) blue (D) yellow-green\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) violet"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "According to general relativity,",
+      "subject": "conceptual_physics",
+      "choices": [
+        "mass distorts spacetime.",
+        "gravity affects clocks.",
+        "light can’t escape from a black hole.",
+        "All of these."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: According to general relativity,\n(A) mass distorts spacetime. (B) All of these. (C) light can’t escape from a black hole. (D) gravity affects clocks.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) All of these. "
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "A step-up transformer in an electric circuit can step up",
+      "subject": "conceptual_physics",
+      "choices": [
+        "voltage",
+        "energy",
+        "Both of these",
+        "Neither of these"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: A step-up transformer in an electric circuit can step up\n(A) Neither of these (B) voltage (C) Both of these (D) energy\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) voltage \n"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "Spectral lines of the elements are",
+      "subject": "conceptual_physics",
+      "choices": [
+        "chaotic",
+        "ordered",
+        "positioned by amplitude",
+        "in phase"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: Spectral lines of the elements are\n(A) in phase (B) positioned by amplitude (C) ordered (D) chaotic\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) ordered"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "A wave transfers",
+      "subject": "conceptual_physics",
+      "choices": [
+        "amplitude",
+        "wavelength",
+        "frequency",
+        "energy"
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about conceptual physics.\nQ: A wave transfers\n(A) amplitude (B) wavelength (C) energy (D) frequency\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) energy"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  }
+]

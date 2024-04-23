@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "Nearsightedness results from",
+      "subject": "high_school_psychology",
+      "choices": [
+        "too much curvature of the cornea and lens",
+        "too little curvature of the cornea and lens",
+        "too much curvature of the iris and lens",
+        "too little curvature of the iris and lens"
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: Nearsightedness results from\n(A) too much curvature of the cornea and lens (B) too little curvature of the iris and lens (C) too much curvature of the iris and lens (D) too little curvature of the cornea and lens\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) too much curvature of the cornea and lens"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Delusions of grandeur are most characteristic of",
+      "subject": "high_school_psychology",
+      "choices": [
+        "OCD.",
+        "schizophrenia.",
+        "conversion disorder.",
+        "antisocial personality disorder."
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: Delusions of grandeur are most characteristic of\n(A) conversion disorder. (B) schizophrenia. (C) OCD. (D) antisocial personality disorder.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(B) schizophrenia"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?",
+      "subject": "high_school_psychology",
+      "choices": [
+        "Homeostatic regulation",
+        "Goal-setting",
+        "Expectancy-value",
+        "Hierarchy of needs"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: Abraham Maslow proposed the idea that some motives are more imperative to survival than others. Which of the following approaches expresses this?\n(A) Hierarchy of needs (B) Goal-setting (C) Expectancy-value (D) Homeostatic regulation\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nA) Hierarchy of needs"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "In test construction and evaluation, validity refers to the degree to which a test",
+      "subject": "high_school_psychology",
+      "choices": [
+        "measures what it purports to measure",
+        "yields consistent results on successive administrations",
+        "has been piloted and statistically analyzed",
+        "includes norms based on a representative sample of the general population"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: In test construction and evaluation, validity refers to the degree to which a test\n(A) has been piloted and statistically analyzed (B) yields consistent results on successive administrations (C) includes norms based on a representative sample of the general population (D) measures what it purports to measure\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) measures what it purports to measure"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "The precedent established in Larry P. v. Riles resulted in",
+      "subject": "high_school_psychology",
+      "choices": [
+        "the provision of a free, appropriate public education for students with disabilities",
+        "the provision of bilingual education for English-language learners",
+        "schools being held responsible for providing tests that do not discriminate on the basis of race",
+        "the assignment of similar funding to athletic activities for boys and girls"
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: The precedent established in Larry P. v. Riles resulted in\n(A) the assignment of similar funding to athletic activities for boys and girls (B) the provision of a free, appropriate public education for students with disabilities (C) schools being held responsible for providing tests that do not discriminate on the basis of race (D) the provision of bilingual education for English-language learners\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) schools being held responsible for providing tests that do not discriminate on the basis of race"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "The heritability for traits of a cloned population is",
+      "subject": "high_school_psychology",
+      "choices": [
+        "0%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: The heritability for traits of a cloned population is\n(A) 25% (B) 50% (C) 75% (D) 0%\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "100% (D)"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Which of the following statistics provides the most information about how spread out a distribution of scores is?",
+      "subject": "high_school_psychology",
+      "choices": [
+        "variance",
+        "mean",
+        "range",
+        "median"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: Which of the following statistics provides the most information about how spread out a distribution of scores is?\n(A) median (B) range (C) mean (D) variance\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) variance"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?",
+      "subject": "high_school_psychology",
+      "choices": [
+        "They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.",
+        "They should provide professional but not administrative supervision.",
+        "They are eligible to serve as supervisors after one year of experience as a school psychologist.",
+        "They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: According to the position statement Supervision in School Psychology published by the National Association of School Psychologists (NASP), which of the following is most accurate concerning school psychologists who will be supervising in a school district?\n(A) They should provide professional but not administrative supervision. (B) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential. (C) They are eligible to serve as supervisors after one year of experience as a school psychologist. (D) They need provide supervision only to school psychologists who are not fully certified or licensed and to any school psychology interns.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) They should hold the Nationally Certified School Psychologist credential or the state school psychologist credential."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are",
+      "subject": "high_school_psychology",
+      "choices": [
+        "at the beginning of the list",
+        "in the middle of the list",
+        "at the end of the list",
+        "distributed throughout the list"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: Dan read a list of 30 vocabulary words only once. If he is typical and shows the serial position effect, we would expect that the words he remembers two days later are\n(A) distributed throughout the list (B) at the end of the list (C) at the beginning of the list (D) in the middle of the list\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) at the beginning of the list"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?",
+      "subject": "high_school_psychology",
+      "choices": [
+        "Piaget's cognitive development theory",
+        "Erikson's psychosocial stage theory",
+        "Kohlberg's moral development theory",
+        "Ainsworth's social attachment theory"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school psychology.\nQ: Which developmental stage theory explained how experiences in infancy, childhood, adolscence, adulthood, and old age influence later personality characteristics?\n(A) Piaget's cognitive development theory (B) Kohlberg's moral development theory (C) Ainsworth's social attachment theory (D) Erikson's psychosocial stage theory\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) Erikson's psychosocial stage theory"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  }
+]

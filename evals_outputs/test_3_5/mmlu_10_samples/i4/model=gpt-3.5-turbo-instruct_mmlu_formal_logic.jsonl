@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "Identify the conclusion of the following argument. It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients. The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes. Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts. (Sigmund Freud, The Origin and Development of Psychoanalysis)",
+      "subject": "formal_logic",
+      "choices": [
+        "It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients.",
+        "The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes.",
+        "Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts.",
+        "It is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts."
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Identify the conclusion of the following argument. It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients. The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes. Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts. (Sigmund Freud, The Origin and Development of Psychoanalysis)\n(A) Because of this, it is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts. (B) The arrogance of our consciousness, which in general, belongs to the strongest defense mechanisms, blocks the unconscious complexes. (C) It is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts. (D) It is hard not to verify in our peers the same weakened intelligence due to emotions that we observe in our everyday patients.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " C) It is difficult to convince people of the unconscious, and in turn to teach them what their conscious knowledge contradicts."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y)",
+      "subject": "formal_logic",
+      "choices": [
+        "Tdc",
+        "Tcd",
+        "Tcc",
+        "dTc"
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Select the best translation into predicate logic. David teaches Chris. (c: Chris; d: David; Txy: x teaches y)\n(A) Tcc (B) Tcd (C) Tdc (D) dTc\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " C) Tdc"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": " Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]",
+      "subject": "formal_logic",
+      "choices": [
+        "Some large houses are bigger than some apartments.",
+        "Some houses are bigger than all large apartments.",
+        "Some large apartments are bigger than some houses.",
+        "Some houses are bigger thatn some large apartments."
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[(Ax • Lx) • (∃y)(Hy • Bxy)]\n(A) Some houses are bigger thatn some large apartments. (B) Some large apartments are bigger than some houses. (C) Some houses are bigger than all large apartments. (D) Some large houses are bigger than some apartments.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Some large apartments are bigger than some houses."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~G ⊃ H\n~H / G",
+      "subject": "formal_logic",
+      "choices": [
+        "Valid",
+        "Invalid. Counterexample when G and H are true",
+        "Invalid. Counterexample when G is true and H is false",
+        "Invalid. Counterexample when H is true and G is false"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~G ⊃ H\n~H / G\n(A) Invalid. Counterexample when H is true and G is false (B) Invalid. Counterexample when G and H are true (C) Invalid. Counterexample when G is true and H is false (D) Valid\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Invalid. Counterexample when G is true and H is false."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(~B • E) ⊃ D",
+      "subject": "formal_logic",
+      "choices": [
+        "If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+        "If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+        "Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner.",
+        "Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by."
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(~B • E) ⊃ D\n(A) If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner. (B) Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner. (C) If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner. (D) Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": " Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[Hx • (∀y)(Ay ⊃ Bxy)]",
+      "subject": "formal_logic",
+      "choices": [
+        "Some houses are smaller than all apartments.",
+        "Every house is bigger than every apartment.",
+        "Some apartment is smaller than every house.",
+        "Some houses are bigger than every apartment."
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∃x)[Hx • (∀y)(Ay ⊃ Bxy)]\n(A) Some houses are smaller than all apartments. (B) Some apartment is smaller than every house. (C) Every house is bigger than every apartment. (D) Some houses are bigger than every apartment.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Some houses are smaller than all apartments."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~K ≡ L / (K · L) ∨ (K · ~L)",
+      "subject": "formal_logic",
+      "choices": [
+        "Valid",
+        "Invalid. Counterexample when K and L are true",
+        "Invalid. Counterexample when K is true and L is false",
+        "Invalid. Counterexample when L is true and K is false"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~K ≡ L / (K · L) ∨ (K · ~L)\n(A) Invalid. Counterexample when L is true and K is false (B) Valid (C) Invalid. Counterexample when K is true and L is false (D) Invalid. Counterexample when K and L are true\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) Invalid. Counterexample when K is true and L is false."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it.",
+      "subject": "formal_logic",
+      "choices": [
+        "The university increases financial aid.",
+        "The university does not increase financial aid.",
+        "The board of trustees prevents it.",
+        "The president fails to approve it."
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Identify the antecedent of the following conditional proposition: If the university does not increase financial aid, either the president fails to approve it or the board of trustees prevents it.\n(A) The university increases financial aid. (B) The board of trustees prevents it. (C) The university does not increase financial aid. (D) The president fails to approve it.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) The university does not increase financial aid."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\n~E ⊃ ~F\nG ⊃ F\nH ∨ ~E\nH ⊃ I\n~I",
+      "subject": "formal_logic",
+      "choices": [
+        "E ⊃ F",
+        "F ⊃ G",
+        "H ⊃ ~E",
+        "~H"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\n~E ⊃ ~F\nG ⊃ F\nH ∨ ~E\nH ⊃ I\n~I\n(A) H ⊃ ~E (B) E ⊃ F (C) F ⊃ G (D) ~H\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " A) H ⊃ ~E"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEverybody loves Raymond, or not.",
+      "subject": "formal_logic",
+      "choices": [
+        "L",
+        "~L",
+        "L • ~L",
+        "L ∨ ~L"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about formal logic.\nQ: Which of the given formulas of PL is the best symbolization of the following sentence?\nEverybody loves Raymond, or not.\n(A) L • ~L (B) L (C) ~L (D) L ∨ ~L\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) L ∨ ~L"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  }
+]

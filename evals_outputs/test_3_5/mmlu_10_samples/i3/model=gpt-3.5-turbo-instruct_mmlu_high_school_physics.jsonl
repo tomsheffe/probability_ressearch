@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?",
+      "subject": "high_school_physics",
+      "choices": [
+        "0.005 C",
+        "0.01 C",
+        "0.02 C",
+        "0.5 C"
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?\n(A) 0.01 C (B) 0.02 C (C) 0.005 C (D) 0.5 C\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "0.01 C (A)"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Which of these quantities decreases as the inverse square of distance for distances far from the objects producing the fields?",
+      "subject": "high_school_physics",
+      "choices": [
+        "the electric field produced by a finite-length charged rod",
+        "the electric field produced by an infinitely long charged cylinder",
+        "the electric field produced by an infinite plane of charge",
+        "the magnetic field produced by an infinitely long, straight current-carrying wire"
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: Which of these quantities decreases as the inverse square of distance for distances far from the objects producing the fields?\n(A) the electric field produced by an infinite plane of charge (B) the electric field produced by an infinitely long charged cylinder (C) the magnetic field produced by an infinitely long, straight current-carrying wire (D) the electric field produced by a finite-length charged rod\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " C) the magnetic field produced by an infinitely long, straight current-carrying wire"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "A solid, metal object is isolated from other charges and has charge distributed on its surface. The charge distribution is not uniform. It may be correctly concluded that the",
+      "subject": "high_school_physics",
+      "choices": [
+        "electric field outside the object is zero",
+        "the electric field outside the object is equal to the electric field inside the object",
+        "the electric field outside the object is directly proportional to the distance away from the center of mass of the object",
+        "the electric field outside the object, but very close to the surface, is equal to the surface charge density at any location divided by the permittivity of free space"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: A solid, metal object is isolated from other charges and has charge distributed on its surface. The charge distribution is not uniform. It may be correctly concluded that the\n(A) the electric field outside the object, but very close to the surface, is equal to the surface charge density at any location divided by the permittivity of free space (B) the electric field outside the object is equal to the electric field inside the object (C) the electric field outside the object is directly proportional to the distance away from the center of mass of the object (D) electric field outside the object is zero\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " D) electric field outside the object is zero"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "Standing waves are produced by a 100-Hz generator in a string of fixed length. The tension in the string is increased until a new set of standing waves is produced. Will the wavelength of the new standing waves be greater than or less than the wavelength of the original standing waves?",
+      "subject": "high_school_physics",
+      "choices": [
+        "Less, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.",
+        "Greater, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.",
+        "Greater, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength.",
+        "Less, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength."
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: Standing waves are produced by a 100-Hz generator in a string of fixed length. The tension in the string is increased until a new set of standing waves is produced. Will the wavelength of the new standing waves be greater than or less than the wavelength of the original standing waves?\n(A) Greater, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength. (B) Less, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength. (C) Less, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength. (D) Greater, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "B) Less, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Two identical capacitors are hooked in parallel to an external circuit. Which of the following quantities must be the same for both capacitors? I. the charge stored on the capacitor II.  the voltage across the capacitor III. the capacitance of the capacitor",
+      "subject": "high_school_physics",
+      "choices": [
+        "I only",
+        "II only",
+        "II and III only",
+        "(E) I, II, and III"
+      ],
+      "answer": 3
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: Two identical capacitors are hooked in parallel to an external circuit. Which of the following quantities must be the same for both capacitors? I. the charge stored on the capacitor II.  the voltage across the capacitor III. the capacitance of the capacitor\n(A) I only (B) II and III only (C) (E) I, II, and III (D) II only\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) II and III only"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object’s kinetic energy at the bottom must be",
+      "subject": "high_school_physics",
+      "choices": [
+        "Equal to the block’s gravitational potential energy when it was released, because total mechanical energy must be conserved.",
+        "Equal to the block’s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.",
+        "Less than the block’s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy.",
+        "Less than the block’s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block’s gain in kinetic energy."
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object’s kinetic energy at the bottom must be\n(A) Less than the block’s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block’s gain in kinetic energy. (B) Less than the block’s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy. (C) Equal to the block’s gravitational potential energy when it was released, because total mechanical energy must be conserved. (D) Equal to the block’s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) Equal to the block’s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline.\n"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "A student is experimenting with a simple spring-block oscillator of spring constant k and amplitude A. The block attached to the spring has a mass of m. If the student places a small block of mass m on top of the original block, which of the following is true?",
+      "subject": "high_school_physics",
+      "choices": [
+        "The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g].",
+        "The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g].",
+        "The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA).",
+        "The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA)."
+      ],
+      "answer": 0
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: A student is experimenting with a simple spring-block oscillator of spring constant k and amplitude A. The block attached to the spring has a mass of m. If the student places a small block of mass m on top of the original block, which of the following is true?\n(A) The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g]. (B) The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA). (C) The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA). (D) The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g].\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA)."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "How much work is required to charge a 10 µF capacitor to a potential difference of 100 V ?",
+      "subject": "high_school_physics",
+      "choices": [
+        "0.005 J",
+        "0.01 J",
+        "0.05 J",
+        "0.1 J"
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: How much work is required to charge a 10 µF capacitor to a potential difference of 100 V ?\n(A) 0.005 J (B) 0.05 J (C) 0.1 J (D) 0.01 J\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "0.05 J"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "A box of mass m slides on a horizontal surface with initial speed v0. It feels no forces other than gravity and the force from the surface. If the coefficient of kinetic friction between the box and the surface is μ, how far does the box slide before coming to rest?",
+      "subject": "high_school_physics",
+      "choices": [
+        "v0^2/(2μg)",
+        "v0^2/(μg)",
+        "2v0^2/(μg)",
+        "mv0^2/(μg)"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: A box of mass m slides on a horizontal surface with initial speed v0. It feels no forces other than gravity and the force from the surface. If the coefficient of kinetic friction between the box and the surface is μ, how far does the box slide before coming to rest?\n(A) v0^2/(μg) (B) v0^2/(2μg) (C) mv0^2/(μg) (D) 2v0^2/(μg)\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " B) v0^2/(2μg)"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "A soccer ball, at rest on the ground, is kicked with an initial velocity of 10 m/s at a launch angle of 30°. Calculate its total flight time, assuming that air resistance is negligible.",
+      "subject": "high_school_physics",
+      "choices": [
+        "0.5 s",
+        "1 s",
+        "2 s",
+        "4 s"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about high school physics.\nQ: A soccer ball, at rest on the ground, is kicked with an initial velocity of 10 m/s at a launch angle of 30°. Calculate its total flight time, assuming that air resistance is negligible.\n(A) 4 s (B) 2 s (C) 0.5 s (D) 1 s\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "1 s"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  }
+]

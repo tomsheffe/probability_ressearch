@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "This is a hierarchy of effects or sequential model used to explain how advertising works:",
+      "subject": "marketing",
+      "choices": [
+        "ADD.",
+        "AIDA.",
+        "PESTLE.",
+        "SWOT."
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: This is a hierarchy of effects or sequential model used to explain how advertising works:\n(A) ADD. (B) SWOT. (C) AIDA. (D) PESTLE.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) AIDA."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": " _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.",
+      "subject": "marketing",
+      "choices": [
+        "The realm of understanding.",
+        "Personal selling.",
+        "Noise.",
+        "Feedback."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.\n(A) Noise. (B) The realm of understanding. (C) Feedback. (D) Personal selling.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) Feedback."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "In the history of marketing, when did the production period end?",
+      "subject": "marketing",
+      "choices": [
+        "In the late 1800s.",
+        "In the early 1900s.",
+        "In the 1920s.",
+        "After the end of the Second World War."
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: In the history of marketing, when did the production period end?\n(A) In the 1920s. (B) In the early 1900s. (C) After the end of the Second World War. (D) In the late 1800s.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) After the end of the Second World War."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?",
+      "subject": "marketing",
+      "choices": [
+        "The level of tangibility associated with the type of product.",
+        "Performance-value.",
+        "Variations in supply and demand.",
+        "The way in which the service is delivered."
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?\n(A) Performance-value. (B) The level of tangibility associated with the type of product. (C) Variations in supply and demand. (D) The way in which the service is delivered.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Performance-value."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be",
+      "subject": "marketing",
+      "choices": [
+        "found guilty under the Sherman Antitrust Act and face prison time",
+        "found guilty under the Magnuson-Moss Warranty Act and face large fines",
+        "found guilty under the Adamson Act and face prison time and fines",
+        "found not guilty because retailers are allowed to set their own price levels"
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be\n(A) found guilty under the Sherman Antitrust Act and face prison time (B) found guilty under the Adamson Act and face prison time and fines (C) found not guilty because retailers are allowed to set their own price levels (D) found guilty under the Magnuson-Moss Warranty Act and face large fines\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) found guilty under the Sherman Antitrust Act and face prison time"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": " The term 'marketing mix' describes:",
+      "subject": "marketing",
+      "choices": [
+        "A composite analysis of all environmental factors inside and outside the firm.",
+        "A series of business decisions that aid in selling a product.",
+        "The relationship between a firm's marketing strengths and its business weaknesses.",
+        "A blending of four strategic elements to satisfy specific target markets."
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: The term 'marketing mix' describes:\n(A) A blending of four strategic elements to satisfy specific target markets. (B) A series of business decisions that aid in selling a product. (C) A composite analysis of all environmental factors inside and outside the firm. (D) The relationship between a firm's marketing strengths and its business weaknesses.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) A blending of four strategic elements to satisfy specific target markets."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "__________ have the potential to control the type and flow of information to the organization and the members of the DMU.",
+      "subject": "marketing",
+      "choices": [
+        "Gatekeepers.",
+        "Buyers.",
+        "Users.",
+        "Initiators."
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: __________ have the potential to control the type and flow of information to the organization and the members of the DMU.\n(A) Buyers. (B) Initiators. (C) Gatekeepers. (D) Users.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Gatekeepers."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": " An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:",
+      "subject": "marketing",
+      "choices": [
+        "Motive development.",
+        "An attitude.",
+        "A self-concept.",
+        "Product evaluation."
+      ],
+      "answer": 0
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:\n(A) A self-concept. (B) An attitude. (C) Motive development. (D) Product evaluation.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Motive development."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": " Which of the following is not an element of the marketing mix?",
+      "subject": "marketing",
+      "choices": [
+        "Promotion.",
+        "Product.",
+        "Target market.",
+        "Pricing."
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: Which of the following is not an element of the marketing mix?\n(A) Product. (B) Pricing. (C) Target market. (D) Promotion.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(C) Target market."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": " Providing free samples of perfumes (scent) in magazines is an example of which of the following?",
+      "subject": "marketing",
+      "choices": [
+        "Classical conditioning.",
+        "Operant conditioning.",
+        "Social learning.",
+        "Behavioural learning."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about marketing.\nQ: Providing free samples of perfumes (scent) in magazines is an example of which of the following?\n(A) Social learning. (B) Classical conditioning. (C) Operant conditioning. (D) Behavioural learning.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Classical conditioning."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  }
+]

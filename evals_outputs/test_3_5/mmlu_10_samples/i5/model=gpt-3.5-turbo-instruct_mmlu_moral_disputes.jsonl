@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": " Just war theory's principle of military necessity belongs to",
+      "subject": "moral_disputes",
+      "choices": [
+        "jus in bello.",
+        "jus ad bellum.",
+        "moral nihilism.",
+        "all of the above"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: Just war theory's principle of military necessity belongs to\n(A) all of the above (B) jus in bello. (C) moral nihilism. (D) jus ad bellum.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) jus in bello."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": " According to Mill, censoring speech that is possibly true",
+      "subject": "moral_disputes",
+      "choices": [
+        "violates human dignity.",
+        "fails a prima facie duty of honesty.",
+        "is tantamount to asserting that you are infallible.",
+        "is a risk worth taking of the speech is dangerous enough."
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: According to Mill, censoring speech that is possibly true\n(A) is tantamount to asserting that you are infallible. (B) violates human dignity. (C) is a risk worth taking of the speech is dangerous enough. (D) fails a prima facie duty of honesty.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) is tantamount to asserting that you are infallible."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": " West argues that feminist rhetoric has",
+      "subject": "moral_disputes",
+      "choices": [
+        "obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good.",
+        "obscures the harms of rape by equating all sex with nonconsensual sex.",
+        "by not acknowledging a distinction between what is good and what noncoerced, has led to the acknowledgement of the harms of consensual sex.",
+        "All of the above"
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: West argues that feminist rhetoric has\n(A) obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good. (B) obscures the harms of rape by equating all sex with nonconsensual sex. (C) All of the above (D) by not acknowledging a distinction between what is good and what noncoerced, has led to the acknowledgement of the harms of consensual sex.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good. "
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": " According to Mill, the value of a particular pleasure depends on",
+      "subject": "moral_disputes",
+      "choices": [
+        "its quantity alone.",
+        "its quality alone.",
+        "both its quantity and its quality.",
+        "neither its quantity nor its quality."
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: According to Mill, the value of a particular pleasure depends on\n(A) its quality alone. (B) both its quantity and its quality. (C) neither its quantity nor its quality. (D) its quantity alone.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) both its quantity and its quality."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": " According to Carruthers, whenever someone is required to act in a certain way toward an animal for the sake of the animal, what explains that fact are facts about",
+      "subject": "moral_disputes",
+      "choices": [
+        "the animal.",
+        "the wider effects on human beings.",
+        "both A and B",
+        "neither A nor B"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: According to Carruthers, whenever someone is required to act in a certain way toward an animal for the sake of the animal, what explains that fact are facts about\n(A) neither A nor B (B) the animal. (C) the wider effects on human beings. (D) both A and B\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "B. The animal."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": " What does SCNT stand for, as used in the discussion on cloning?",
+      "subject": "moral_disputes",
+      "choices": [
+        "skin cell nuclear transfer",
+        "stem cell nuclear transmission",
+        "somatic cell nuclear transfer",
+        "none of the above"
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: What does SCNT stand for, as used in the discussion on cloning?\n(A) none of the above (B) somatic cell nuclear transfer (C) skin cell nuclear transfer (D) stem cell nuclear transmission\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(B) somatic cell nuclear transfer"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": " Velleman worries that, by offering a patient the option of euthanasia,",
+      "subject": "moral_disputes",
+      "choices": [
+        "we allow the patient to harm him- or herself.",
+        "we force doctors to harm the patient.",
+        "we harm the patient's family.",
+        "we harm the patient."
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: Velleman worries that, by offering a patient the option of euthanasia,\n(A) we force doctors to harm the patient. (B) we harm the patient. (C) we allow the patient to harm him- or herself. (D) we harm the patient's family.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) we force doctors to harm the patient."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": " Nathanson supports which of the following kinds of retributivism?",
+      "subject": "moral_disputes",
+      "choices": [
+        "preventive",
+        "proportional",
+        "equality",
+        "retaliatory"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: Nathanson supports which of the following kinds of retributivism?\n(A) preventive (B) retaliatory (C) equality (D) proportional\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) proportional"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": " Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?",
+      "subject": "moral_disputes",
+      "choices": [
+        "consequentialism",
+        "Kantianism",
+        "virtue ethics",
+        "contractualism"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?\n(A) contractualism (B) consequentialism (C) virtue ethics (D) Kantianism\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) Kantianism"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": " In Gardiner's analysis, which of the following is a characteristic of the climate change problem?",
+      "subject": "moral_disputes",
+      "choices": [
+        "institutional adequacy",
+        "dispersion of causes and effects",
+        "fragmentation of agency",
+        "all of the above"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about moral disputes.\nQ: In Gardiner's analysis, which of the following is a characteristic of the climate change problem?\n(A) all of the above (B) fragmentation of agency (C) institutional adequacy (D) dispersion of causes and effects\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) all of the above"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  }
+]

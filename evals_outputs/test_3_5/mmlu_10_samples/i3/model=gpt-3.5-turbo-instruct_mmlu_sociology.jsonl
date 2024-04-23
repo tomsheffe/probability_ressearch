@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "Mass-society theory suggests that:",
+      "subject": "sociology",
+      "choices": [
+        "the content of the media is determined by market forces",
+        "the subordinate classes are dominated by the ideology of the ruling class",
+        "the media manipulate 'the masses' as vulnerable, passive consumers",
+        "audiences make selective interpretations of media messages"
+      ],
+      "answer": 2
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: Mass-society theory suggests that:\n(A) audiences make selective interpretations of media messages (B) the content of the media is determined by market forces (C) the media manipulate 'the masses' as vulnerable, passive consumers (D) the subordinate classes are dominated by the ideology of the ruling class\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) the media manipulate 'the masses' as vulnerable, passive consumers"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "The ecological approach to urban sociology involved studying:",
+      "subject": "sociology",
+      "choices": [
+        "how social groups colonized different areas of the city and competed for resources",
+        "the forms of wildlife and natural habitats that could be found on the edges of the city",
+        "the way in which people organized collective protests about environmental issues",
+        "how men and women used the city's public spaces differently"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: The ecological approach to urban sociology involved studying:\n(A) how men and women used the city's public spaces differently (B) how social groups colonized different areas of the city and competed for resources (C) the forms of wildlife and natural habitats that could be found on the edges of the city (D) the way in which people organized collective protests about environmental issues\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) how social groups colonized different areas of the city and competed for resources"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Becker proclaimed that cannabis use was:",
+      "subject": "sociology",
+      "choices": [
+        "increasing throughout all sections of youth in the 1970s",
+        "learned gradually through the social processes of a deviant career",
+        "a dangerous pastime that young people should not be allowed to pursue",
+        "not as enjoyable as other sociologists had suggested"
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: Becker proclaimed that cannabis use was:\n(A) learned gradually through the social processes of a deviant career (B) increasing throughout all sections of youth in the 1970s (C) not as enjoyable as other sociologists had suggested (D) a dangerous pastime that young people should not be allowed to pursue\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) learned gradually through the social processes of a deviant career"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "The middle classes that developed over the nineteenth century were:",
+      "subject": "sociology",
+      "choices": [
+        "an urban set, involved in civic bodies and voluntary associations",
+        "too diverse to have a strong sense of class consciousness",
+        "often involved in 'white collar' work",
+        "all of the above"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: The middle classes that developed over the nineteenth century were:\n(A) too diverse to have a strong sense of class consciousness (B) often involved in 'white collar' work (C) an urban set, involved in civic bodies and voluntary associations (D) all of the above\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) all of the above"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Technological forms of surveillance have made it easier to:",
+      "subject": "sociology",
+      "choices": [
+        "access and exchange 'private' information about consumers",
+        "reduce prison overcrowding by the use of electronic tagging",
+        "monitor employees' activities at work",
+        "all of the above"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: Technological forms of surveillance have made it easier to:\n(A) monitor employees' activities at work (B) access and exchange 'private' information about consumers (C) reduce prison overcrowding by the use of electronic tagging (D) all of the above\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nD) all of the above"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "The concept of gemeinschaft developed by Ferdinand Tönnies describes basically the same relational characteristics as",
+      "subject": "sociology",
+      "choices": [
+        "organic solidarity",
+        "mechanical solidarity",
+        "gesellschaft",
+        "anomie"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: The concept of gemeinschaft developed by Ferdinand Tönnies describes basically the same relational characteristics as\n(A) organic solidarity (B) mechanical solidarity (C) gesellschaft (D) anomie\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) organic solidarity"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "There was a growth in income inequality in the 1980s because:",
+      "subject": "sociology",
+      "choices": [
+        "rates of income tax increased equally for all occupational groups",
+        "there were more professional jobs available but not enough people to fill them",
+        "the price of consumer goods rose at a higher rate than earnings",
+        "growing unemployment made more people dependent on welfare benefits"
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: There was a growth in income inequality in the 1980s because:\n(A) the price of consumer goods rose at a higher rate than earnings (B) growing unemployment made more people dependent on welfare benefits (C) there were more professional jobs available but not enough people to fill them (D) rates of income tax increased equally for all occupational groups\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) the price of consumer goods rose at a higher rate than earnings"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "If a deviant act is 'normalized', it is:",
+      "subject": "sociology",
+      "choices": [
+        "recognised as breaking an important norm of behaviour",
+        "seen a temporary aberration from an otherwise 'normal' character",
+        "the first step in establishing a deviant career",
+        "attributed to the person's genetic or anatomical make up"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: If a deviant act is 'normalized', it is:\n(A) attributed to the person's genetic or anatomical make up (B) seen a temporary aberration from an otherwise 'normal' character (C) recognised as breaking an important norm of behaviour (D) the first step in establishing a deviant career\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "B"
+      ]
+    ],
+    "filtered_resps": [
+      "[invalid]"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "In the debate about the 'managerial revolution', John Scott (1997) argued that:",
+      "subject": "sociology",
+      "choices": [
+        "owners still exercised control through groups of shareholders and interlocking directorships",
+        "ownership and management were becoming increasingly separate functions",
+        "the techniques of scientific management were overly bureaucratic and inefficient",
+        "managers were becoming dissatisfied with their working conditions and planned to overthrow the owners of businesses"
+      ],
+      "answer": 0
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: In the debate about the 'managerial revolution', John Scott (1997) argued that:\n(A) owners still exercised control through groups of shareholders and interlocking directorships (B) ownership and management were becoming increasingly separate functions (C) managers were becoming dissatisfied with their working conditions and planned to overthrow the owners of businesses (D) the techniques of scientific management were overly bureaucratic and inefficient\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "B"
+      ]
+    ],
+    "filtered_resps": [
+      "[invalid]"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "Marxist feminists explain patriarchy in terms of:",
+      "subject": "sociology",
+      "choices": [
+        "a lack of equal rights and opportunities for men and women",
+        "sex classes, through which men oppress women economically, politically and sexually",
+        "women's domestic labour being exploited by the capitalist economy",
+        "the dual systems of capitalism and male domination"
+      ],
+      "answer": 2
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about sociology.\nQ: Marxist feminists explain patriarchy in terms of:\n(A) the dual systems of capitalism and male domination (B) women's domestic labour being exploited by the capitalist economy (C) a lack of equal rights and opportunities for men and women (D) sex classes, through which men oppress women economically, politically and sexually\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\nA) the dual systems of capitalism and male domination"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  }
+]

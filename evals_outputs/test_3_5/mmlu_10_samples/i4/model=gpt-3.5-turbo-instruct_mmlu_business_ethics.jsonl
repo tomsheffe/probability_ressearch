@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "_______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.",
+      "subject": "business_ethics",
+      "choices": [
+        "Cryptocurrencies, Expensive, Secure, Financial Crime",
+        "Traditional currency, Cheap, Unsecure, Charitable giving",
+        "Cryptocurrencies, Cheap, Secure, Financial crime",
+        "Traditional currency, Expensive, Unsecure, Charitable giving"
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: _______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.\n(A) Cryptocurrencies, Expensive, Secure, Financial Crime (B) Traditional currency, Expensive, Unsecure, Charitable giving (C) Traditional currency, Cheap, Unsecure, Charitable giving (D) Cryptocurrencies, Cheap, Secure, Financial crime\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(D) Cryptocurrencies, Cheap, Secure, Financial crime"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.",
+      "subject": "business_ethics",
+      "choices": [
+        "Unsafe practices, Wants, Fear, Trivial",
+        "Unsafe practices, Distress, Fear, Serious",
+        "Safe practices, Wants, Jealousy, Trivial",
+        "Safe practices, Distress, Jealousy, Serious"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.\n(A) Safe practices, Distress, Jealousy, Serious (B) Unsafe practices, Wants, Fear, Trivial (C) Unsafe practices, Distress, Fear, Serious (D) Safe practices, Wants, Jealousy, Trivial\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Unsafe practices, Distress, Fear, Serious"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.",
+      "subject": "business_ethics",
+      "choices": [
+        "Employee rights",
+        "Employee rights",
+        "Employer duties",
+        "Employee duties"
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: ______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.\n(A) Employee rights (B) Employee rights (C) Employer duties (D) Employee duties\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " D) Employee duties"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": " ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.",
+      "subject": "business_ethics",
+      "choices": [
+        "Presenteeism",
+        "Absenteeism",
+        "Work-play balance",
+        "Work-life balance"
+      ],
+      "answer": 3
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.\n(A) Presenteeism (B) Work-life balance (C) Absenteeism (D) Work-play balance\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) Work-life balance"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": " _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.",
+      "subject": "business_ethics",
+      "choices": [
+        "Industrial supply loops",
+        "Industrial ecosystems",
+        "Ecological ecosystems",
+        "Corporate ecosystems"
+      ],
+      "answer": 1
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.\n(A) Industrial ecosystems (B) Industrial supply loops (C) Corporate ecosystems (D) Ecological ecosystems\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Industrial ecosystems"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.",
+      "subject": "business_ethics",
+      "choices": [
+        "Power imbalance, Benefits, Hoodwinked",
+        "Power imbalance, Resources, Co-opted",
+        "Informational asymmetries, Benefits, Hoodwinked",
+        "Informational asymmetries, Resources, Co-opted"
+      ],
+      "answer": 1
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: ________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.\n(A) Informational asymmetries, Benefits, Hoodwinked (B) Power imbalance, Resources, Co-opted (C) Power imbalance, Benefits, Hoodwinked (D) Informational asymmetries, Resources, Co-opted\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Power imbalance, Benefits, Hoodwinked"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?",
+      "subject": "business_ethics",
+      "choices": [
+        "hedonistic utilitarianism",
+        "preference utilitarianism",
+        "The Categorical Imperative",
+        "ethics of care"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?\n(A) ethics of care (B) hedonistic utilitarianism (C) preference utilitarianism (D) The Categorical Imperative\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) hedonistic utilitarianism"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "What does Milton Friedman believe to be the sole responsibility of business?",
+      "subject": "business_ethics",
+      "choices": [
+        "The only social responsibility of business is to its shareholders",
+        "Managers should act in ways that balance the interest of society and shareholders",
+        "The primary responsibility organizations have is to its employees",
+        "The primary responsibility organizations have is to its stakeholders"
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: What does Milton Friedman believe to be the sole responsibility of business?\n(A) The primary responsibility organizations have is to its stakeholders (B) The only social responsibility of business is to its shareholders (C) The primary responsibility organizations have is to its employees (D) Managers should act in ways that balance the interest of society and shareholders\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) The only social responsibility of business is to its shareholders"
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.",
+      "subject": "business_ethics",
+      "choices": [
+        "Legal, Interactions, Mechanics",
+        "Civil, Relations, Outcomes",
+        "Political, Interactions, Outcomes",
+        "Environmental, Relations, Mechanics"
+      ],
+      "answer": 1
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: ______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.\n(A) Environmental, Relations, Mechanics (B) Legal, Interactions, Mechanics (C) Political, Interactions, Outcomes (D) Civil, Relations, Outcomes\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Political, Interactions, Outcomes"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 0.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "_______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.",
+      "subject": "business_ethics",
+      "choices": [
+        "Dynamic",
+        "Fluid",
+        "Flexible",
+        "Modern"
+      ],
+      "answer": 2
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about business ethics.\nQ: _______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.\n(A) Modern (B) Dynamic (C) Fluid (D) Flexible\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (D) Flexible"
+      ]
+    ],
+    "filtered_resps": [
+      "(D)"
+    ],
+    "exact_match": 1.0
+  }
+]

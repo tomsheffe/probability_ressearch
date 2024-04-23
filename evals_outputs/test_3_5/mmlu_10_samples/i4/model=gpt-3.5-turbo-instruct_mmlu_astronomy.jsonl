@@ -1,0 +1,362 @@
+[
+  {
+    "doc_id": 0,
+    "doc": {
+      "question": "What is true for a type-Ia (\"type one-a\") supernova?",
+      "subject": "astronomy",
+      "choices": [
+        "This type occurs in binary systems.",
+        "This type occurs in young galaxies.",
+        "This type produces gamma-ray bursts.",
+        "This type produces high amounts of X-rays."
+      ],
+      "answer": 0
+    },
+    "target": "(B)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: What is true for a type-Ia (\"type one-a\") supernova?\n(A) This type produces high amounts of X-rays. (B) This type occurs in binary systems. (C) This type produces gamma-ray bursts. (D) This type occurs in young galaxies.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (B) This type occurs in binary systems."
+      ]
+    ],
+    "filtered_resps": [
+      "(B)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 1,
+    "doc": {
+      "question": "If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:",
+      "subject": "astronomy",
+      "choices": [
+        "Its speed relative to you",
+        "Its composition",
+        "Its size",
+        "Its distance from you"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:\n(A) Its distance from you (B) Its size (C) Its speed relative to you (D) Its composition\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Its distance from you"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 2,
+    "doc": {
+      "question": "Why is the sky blue?",
+      "subject": "astronomy",
+      "choices": [
+        "Because the molecules that compose the Earth's atmosphere have a blue-ish color.",
+        "Because the sky reflects the color of the Earth's oceans.",
+        "Because the atmosphere preferentially scatters short wavelengths.",
+        "Because the Earth's atmosphere preferentially absorbs all other colors."
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: Why is the sky blue?\n(A) Because the atmosphere preferentially scatters short wavelengths. (B) Because the Earth's atmosphere preferentially absorbs all other colors. (C) Because the sky reflects the color of the Earth's oceans. (D) Because the molecules that compose the Earth's atmosphere have a blue-ish color.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Because the atmosphere preferentially scatters short wavelengths."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 3,
+    "doc": {
+      "question": "You’ve made a scientific theory that there is an attractive force between all objects. When will your theory be proven to be correct?",
+      "subject": "astronomy",
+      "choices": [
+        "The first time you drop a bowling ball and it falls to the ground proving your hypothesis.",
+        "After you’ve repeated your experiment many times.",
+        "You can never prove your theory to be correct only “yet to be proven wrong”.",
+        "When you and many others have tested the hypothesis."
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: You’ve made a scientific theory that there is an attractive force between all objects. When will your theory be proven to be correct?\n(A) You can never prove your theory to be correct only “yet to be proven wrong”. (B) When you and many others have tested the hypothesis. (C) After you’ve repeated your experiment many times. (D) The first time you drop a bowling ball and it falls to the ground proving your hypothesis.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) You can never prove your theory to be correct only “yet to be proven wrong”."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 4,
+    "doc": {
+      "question": "Which of the following is/are true?",
+      "subject": "astronomy",
+      "choices": [
+        "Titan is the only outer solar system moon with a thick atmosphere",
+        "Titan is the only outer solar system moon with evidence for recent geologic activity",
+        "Titan's atmosphere is composed mostly of hydrocarbons",
+        "A and D"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: Which of the following is/are true?\n(A) A and D (B) Titan is the only outer solar system moon with a thick atmosphere (C) Titan's atmosphere is composed mostly of hydrocarbons (D) Titan is the only outer solar system moon with evidence for recent geologic activity\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) A and D"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 5,
+    "doc": {
+      "question": "A comet of mass m impacts the earth (mass M radius R) at the minimum impact speed. What is the expression for the total energy released in the impact?",
+      "subject": "astronomy",
+      "choices": [
+        "m*v",
+        "0.5*m/(R^3)",
+        "0.5*m*(2GM/R)",
+        "0.6*G(M^2)/R"
+      ],
+      "answer": 2
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: A comet of mass m impacts the earth (mass M radius R) at the minimum impact speed. What is the expression for the total energy released in the impact?\n(A) 0.5*m*(2GM/R) (B) 0.5*m/(R^3) (C) m*v (D) 0.6*G(M^2)/R\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) 0.5*m*(2GM/R) "
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 6,
+    "doc": {
+      "question": "Some of Mars'water is frozen in the soil and the ice caps and some was lost due to solar wind stripping but much of the original water is thought to have been lost through another mechanism. What happened to this \"lost\"water?",
+      "subject": "astronomy",
+      "choices": [
+        "it was stripped away by the magnetic field when it rapidly decreased in strength",
+        "it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape",
+        "it was consumed by a civilization of thirsty Martians",
+        "it was vaporized during a period of intense volcanism and was lost to space through thermal escape"
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: Some of Mars'water is frozen in the soil and the ice caps and some was lost due to solar wind stripping but much of the original water is thought to have been lost through another mechanism. What happened to this \"lost\"water?\n(A) it was consumed by a civilization of thirsty Martians (B) it was vaporized during a period of intense volcanism and was lost to space through thermal escape (C) it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape (D) it was stripped away by the magnetic field when it rapidly decreased in strength\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) it was broken into hydrogen and oxygen by ultraviolet light and the hydrogen was lost through thermal escape"
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 7,
+    "doc": {
+      "question": "Most rocks on the Moon's surface are older than those on the Earth's surface. The best evidence for this is:",
+      "subject": "astronomy",
+      "choices": [
+        "Lunar rocks are composed of fragments pulverized by many impacts.",
+        "Radioactive dating of lunar samples shows that they are older.",
+        "The Moon's surface is more heavily eroded than the Earth's surface.",
+        "The Moon's surface has more impact craters than the Earth's surface."
+      ],
+      "answer": 1
+    },
+    "target": "(C)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: Most rocks on the Moon's surface are older than those on the Earth's surface. The best evidence for this is:\n(A) Lunar rocks are composed of fragments pulverized by many impacts. (B) The Moon's surface has more impact craters than the Earth's surface. (C) Radioactive dating of lunar samples shows that they are older. (D) The Moon's surface is more heavily eroded than the Earth's surface.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (C) Radioactive dating of lunar samples shows that they are older."
+      ]
+    ],
+    "filtered_resps": [
+      "(C)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 8,
+    "doc": {
+      "question": "What is the second most common element in the solar system?",
+      "subject": "astronomy",
+      "choices": [
+        "Iron",
+        "Hydrogen",
+        "Methane",
+        "Helium"
+      ],
+      "answer": 3
+    },
+    "target": "(A)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: What is the second most common element in the solar system?\n(A) Helium (B) Methane (C) Hydrogen (D) Iron\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        " (A) Helium"
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 1.0
+  },
+  {
+    "doc_id": 9,
+    "doc": {
+      "question": "What is the source of the material that causes meteor showers?",
+      "subject": "astronomy",
+      "choices": [
+        "Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower.",
+        "Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky.",
+        "The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky.",
+        "The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower."
+      ],
+      "answer": 3
+    },
+    "target": "(D)",
+    "arguments": [
+      [
+        "The following are multiple choice questions (with answers) about astronomy.\nQ: What is the source of the material that causes meteor showers?\n(A) The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky. (B) Near-Earth asteroids gradually disintegrate and spread out along their orbital path. When the Earth passes through the orbit of an asteroid we are bombarded by sand-sized particles which cause a meteor shower. (C) Near-Earth asteroids disintegrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a single location in the sky. (D) The nuclei of comets gradually disintegrate and spread out along the comet's orbital path. When the Earth passes through the orbit of a comet we are bombarded by sand-sized particles which cause a meteor shower.\nA: ",
+        {
+          "until": [
+            "\n\n"
+          ],
+          "do_sample": false,
+          "temperature": 0.7
+        }
+      ]
+    ],
+    "resps": [
+      [
+        "\n(A) The nuclei of comets disintigrate as they enter Earth's atmosphere creating hundreds of bright meteors that appear to radiate from a central location in the sky."
+      ]
+    ],
+    "filtered_resps": [
+      "(A)"
+    ],
+    "exact_match": 0.0
+  }
+]
